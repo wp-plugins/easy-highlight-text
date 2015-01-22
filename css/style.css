@@ -1,0 +1,71 @@
+.eht-success{
+	background-color:#5cb85c;
+	color:#fff;
+	font-size:80%;
+	font-style:italic;
+	padding:5px;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid #fff;
+}
+
+.eht-error{
+	background-color:#c9302c;
+	color:#fff;
+	font-size:80%;
+	font-style:italic;
+	padding:5px;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid #fff;
+}
+
+.eht-tip{
+	background-color:#FFFF99;
+	color:#404040;
+	font-size:80%;
+	font-style:italic;
+	padding:5px;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid #fff;
+}
+
+.eht-warning{
+	background-color:#ec971f;
+	color:#fff;
+	font-size:80%;
+	font-style:italic;
+	padding:5px;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid #fff;
+}
+
+.eht-simple{
+	background-color:#fff;
+	color:#404040;
+	font-size:80%;
+	font-style:italic;
+	padding:5px;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid #000;
+}
+
+.eht-message{
+	background-color:#31b0d5;
+	color:#fff;
+	font-size:80%;
+	font-style:italic;
+	padding:5px;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid #fff;
+}
